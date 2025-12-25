@@ -1,2 +1,2 @@
-# hello-github
-My first GitHub repository
+Hello 👋  
+This is my GitHub account for learning programming and using Git.
